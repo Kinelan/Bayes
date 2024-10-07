@@ -1,0 +1,9 @@
+Significant Joint Probabilities with State Descriptions:
+  State: Animal: Monkey, Environment: Land, HasShell: False, BearsYoungAs: Live, Class: Mammal, WarmBlooded: True, BodyCovering: Fur, Probability: 0.2000000000
+  State: Animal: Penguin, Environment: Land, HasShell: False, BearsYoungAs: Eggs, Class: Bird, WarmBlooded: True, BodyCovering: Feathers, Probability: 0.1000000000
+  State: Animal: Penguin, Environment: Water, HasShell: False, BearsYoungAs: Eggs, Class: Bird, WarmBlooded: True, BodyCovering: Feathers, Probability: 0.1000000000
+  State: Animal: Platypus, Environment: Water, HasShell: False, BearsYoungAs: Eggs, Class: Mammal, WarmBlooded: True, BodyCovering: Fur, Probability: 0.2000000000
+  State: Animal: Robin, Environment: Air, HasShell: False, BearsYoungAs: Eggs, Class: Bird, WarmBlooded: True, BodyCovering: Feathers, Probability: 0.1000000000
+  State: Animal: Robin, Environment: Land, HasShell: False, BearsYoungAs: Eggs, Class: Bird, WarmBlooded: True, BodyCovering: Feathers, Probability: 0.1000000000
+  State: Animal: Turtle, Environment: Land, HasShell: True, BearsYoungAs: Eggs, Class: Reptile, WarmBlooded: False, BodyCovering: Scales, Probability: 0.1000000000
+  State: Animal: Turtle, Environment: Water, HasShell: True, BearsYoungAs: Eggs, Class: Reptile, WarmBlooded: False, BodyCovering: Scales, Probability: 0.1000000000
